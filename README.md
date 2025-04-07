@@ -1,2 +1,2 @@
-# SI 507
+# SI507
 Intermediate Programming
